@@ -1,0 +1,166 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Computer Lenovo",
+      "price": 15000,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Computer Samsung",
+      "price": 12000,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Computer Apples",
+      "price": "28000",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "name": "Computer Dell",
+      "price": 16000,
+      "checked": true
+    },
+    {
+      "id": 5,
+      "name": "Computer Acer",
+      "price": 4500,
+      "checked": true
+    },
+    {
+      "id": 7,
+      "name": "Computer Asus",
+      "price": 9500,
+      "checked": false
+    },
+    {
+      "id": 8,
+      "name": "Computer Msi",
+      "price": 30000,
+      "checked": true
+    },
+    {
+      "id": 9,
+      "name": "Computer HP",
+      "price": 12000,
+      "checked": false
+    },
+    {
+      "id": 11,
+      "name": "Computer Lenovo",
+      "price": 15000,
+      "checked": false
+    },
+    {
+      "id": 12,
+      "name": "Computer Samsung",
+      "price": 12000,
+      "checked": false
+    },
+    {
+      "id": 13,
+      "name": "Computer Apple",
+      "price": 25000,
+      "checked": false
+    },
+    {
+      "id": 14,
+      "name": "Computer Dell",
+      "price": 16000,
+      "checked": false
+    },
+    {
+      "id": 15,
+      "name": "Computer Acer",
+      "price": 4500,
+      "checked": false
+    },
+    {
+      "id": 17,
+      "name": "Computer Asus",
+      "price": 9500,
+      "checked": false
+    },
+    {
+      "id": 18,
+      "name": "Computer Msi",
+      "price": 30000,
+      "checked": true
+    },
+    {
+      "id": 19,
+      "name": "Computer HP",
+      "price": 12000,
+      "checked": false
+    },
+    {
+      "id": 20,
+      "name": "Computer Huawei",
+      "price": 8000,
+      "checked": true
+    },
+    {
+      "id": 21,
+      "name": "Computer Lenovo",
+      "price": 15000,
+      "checked": false
+    },
+    {
+      "id": 22,
+      "name": "Computer Samsung",
+      "price": 12000,
+      "checked": false
+    },
+    {
+      "id": 23,
+      "name": "Computer Apple",
+      "price": 25000,
+      "checked": false
+    },
+    {
+      "id": 24,
+      "name": "Computer Dell",
+      "price": 16000,
+      "checked": false
+    },
+    {
+      "id": 25,
+      "name": "Computer Acer",
+      "price": 4500,
+      "checked": false
+    },
+    {
+      "id": 27,
+      "name": "Computer Asus",
+      "price": 9500,
+      "checked": false
+    },
+    {
+      "id": 28,
+      "name": "Computer Msi",
+      "price": 30000,
+      "checked": true
+    },
+    {
+      "id": 29,
+      "name": "Computer HP",
+      "price": 12000,
+      "checked": false
+    },
+    {
+      "id": 30,
+      "name": "Computer Huawei",
+      "price": 8000,
+      "checked": true
+    },
+    {
+      "name": "USB 2T",
+      "price": "300",
+      "checked": "on",
+      "id": 31
+    }
+  ]
+}
